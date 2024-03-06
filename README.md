@@ -1,5 +1,5 @@
 # Data-Scientist-Technical-Exercise-10DS
-National Tutoring Programme - NTP and Accident and Emergency (A&E) Performance
+National Tutoring Programme - NTP and Accident and Emergency (A\&E) Performance
 
 This repo contains the work I did as part of a job interview. 
 Two days to the interview I was sent a sample exercise from previous interviews with the following statement "We have attached an example of a technical questions from former interview rounds so that you know what to expect. The policy question and data will both be different for your interview, but hopefully this will give you a good idea of what the task will look like." This was about the **National Tutoring Programme (NTP)**. An attached word document contained the policy question to be addressed and links to the dataset and other supporting information. I took a whole day to analyse the data and prepared a presentation, just in case I was to be surprised with the same policy question on the interview day. 
